@@ -18,5 +18,6 @@ public class CategoryFactory {
         }
 
         return catalogue;
+        // some changes
     }
 }
